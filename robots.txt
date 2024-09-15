@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inctacton.github.io/sitemap.html.gz
+Sitemap: https://inctacton.github.io/app/sitemap.html.gz
+Sitemap: https://inctacton.github.io/assets/sitemap.html.gz
+Sitemap: https://inctacton.github.io/css/sitemap.html.gz
+Sitemap: https://inctacton.github.io/includes/sitemap.html.gz
+Sitemap: https://inctacton.github.io/item/sitemap.html.gz
+Sitemap: https://inctacton.github.io/src/sitemap.html.gz
